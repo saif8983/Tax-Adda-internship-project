@@ -1,27 +1,4 @@
-@font-face {
-  font-family: 'Mulish-Black';
-  src:  url('../public/fonts/Mulish-Black.ttf') format('truetype');
-}
-@font-face {
-  font-family: 'Mulish-Bold';
-  src:  url('../public/fonts/Mulish-Bold.ttf') format('truetype');
-}
-@font-face {
-  font-family: 'Mulish-ExtraBold';
-  src:  url('../public/fonts/Mulish-ExtraBold.ttf') format('truetype');
-}
-@font-face {
-  font-family: 'Mulish-Light';
-  src:  url('../public/fonts/Mulish-Light.ttf') format('truetype');
-}
-@font-face {
-  font-family: 'Mulish-ExtraLight';
-  src:  url('../public/fonts/Mulish-ExtraLight.ttf') format('truetype');
-}
-@font-face {
-  font-family: 'Mulish-Regular';
-  src:  url('../public/fonts/Mulish-Regular.ttf') format('truetype');
-}
+
 .App {
   text-align: center;
 }
