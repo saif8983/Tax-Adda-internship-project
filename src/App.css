@@ -39,7 +39,7 @@
 }
 .container {  display: grid;
   grid-template-columns: 0.7fr 1.3fr 1fr;
-  grid-template-rows: 0.3fr 1.7fr 1fr;
+  grid-template-rows: 0.2fr 1.7fr 1fr;
   grid-auto-columns: 1fr;
   grid-auto-rows: 1fr;
   gap: 0px 0px;
@@ -55,7 +55,10 @@
 
 .navbar { grid-area: navbar; }
 
-.sidebar { grid-area: sidebar; }
+.sidebar { grid-area: sidebar; color:white;background-color: #282c34;
+  min-height: 100vh;
+
+          }
 
 .side-navbar { grid-area: side-navbar; 
                display: flex;
