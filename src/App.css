@@ -67,7 +67,9 @@
                align-items: center;
 }
 
-.main-container { grid-area: main-container; }
+.main-container { grid-area: main-container; 
+                  background-color:  rgba(243,244,246);
+}
 .side-content{
   display: flex;
   flex-direction: row;
